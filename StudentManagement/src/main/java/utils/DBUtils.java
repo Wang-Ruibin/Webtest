@@ -13,7 +13,7 @@ public class DBUtils {
 			+ "&serverTimezone=Asia/Shanghai";
 
 	private static final String USER = "root"; // 改成你的数据库用户名
-	private static final String PASSWORD = "qw12qw12@"; // 改成你的数据库密码
+	private static final String PASSWORD = "your_password"; // 改成你的数据库密码
 
 	static {
 		try {
