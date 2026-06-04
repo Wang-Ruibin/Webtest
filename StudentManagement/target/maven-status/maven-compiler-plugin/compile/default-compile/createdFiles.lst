@@ -1,0 +1,11 @@
+service\UserExitServlet.class
+model\Student.class
+utils\DBUtils.class
+service\RegisterServlet.class
+model\Major.class
+service\LoginServlet.class
+dao\StudentDao.class
+dao\UserDao.class
+service\AdminDao.class
+model\User.class
+dao\MajorDao.class
